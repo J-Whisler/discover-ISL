@@ -7,8 +7,7 @@ const Footer = () => {
     <div className="footer-container">
       <div className="footer-item">
         <h4>
-          Design by Jacob Whisler. Click
-          <a href="www.twitter.com"> here</a> to see more of my projects!
+          Design by Jacob Whisler | 2021
         </h4>
       </div>
     </div>
